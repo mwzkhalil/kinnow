@@ -1,0 +1,1 @@
+{"batch": 1, "cpu": "AMD EPYC 9V74 80-Core Processor", "inter_op_threads": 1, "intra_op_threads": 1, "measurement": "in-memory candidate scoring via ONNX Runtime C API, including binding overhead; excludes tokenization and model load", "median_ms": 0.043005, "p95_ms": 0.08854059999999997, "repetitions": 250, "runtime": "1.21.0", "warmup": 40}

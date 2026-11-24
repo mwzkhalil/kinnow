@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Training runs, corpora and checkpoints (large, regenerable)
+work/
+cache/
+runs/
+release/
+*.pt
+*.parquet
+*.sqlite
+*.ids
+*.ends
+*.zip
+
+# Raw text and evaluation rows (may contain licensed or private text)
+*.jsonl
+!data/example_pairs.jsonl
+
+# Large exported models live on Hugging Face, not in git (the tiny test fixture is kept)
+*.onnx
+!tests/fixtures/tiny_model/*.onnx

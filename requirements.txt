@@ -1,0 +1,5 @@
+# Python 3.10–3.13. Keep the existing CUDA-enabled PyTorch installation.
+numpy>=1.26,<3
+pyarrow>=16,<30
+onnx>=1.16,<2
+onnxruntime>=1.18,<2

@@ -1,0 +1,10 @@
+{
+ "threshold": 8.705339431762695,
+ "thresholds": {
+  "curated": 9.255822517637021,
+  "edit": 8.523044793156034
+ },
+ "minimum_precision": 0.95,
+ "max_false_per_1000": 0.5,
+ "model_sha256": "6afc16400429974d26b9ed8eb887ed0347db1a8d0a565a4054faf89b5280b37c"
+}

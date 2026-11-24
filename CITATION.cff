@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use Kinnow, please cite it as below."
+title: "Kinnow: a small offline contextual spellchecker for Urdu real-word errors"
+type: software
+authors:
+  - family-names: Khalil
+    given-names: Mahwiz
+version: 1.0.0
+date-released: 2026-11-24
+license: MIT
+repository-code: "https://github.com/mwzkhalil/kinnow"
+url: "https://huggingface.co/mahwizzzz/kinnow"
+keywords:
+  - urdu
+  - spelling correction
+  - real-word errors
+  - onnx

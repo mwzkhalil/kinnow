@@ -1,0 +1,9 @@
+# One protected surface form per line. Add product names and names used by your editors.
+پاکستان
+کراچی
+لاہور
+غالب
+اقبال
+پروکسیما
+مہوش
+واجد

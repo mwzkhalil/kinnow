@@ -1,0 +1,4 @@
+{"id": "demo-d1", "group": "demo-editor-1", "split": "dev", "domain": "editing", "typed": "اس دوا کا عصر کئی گھنٹے رہا۔", "corrected": "اس دوا کا اثر کئی گھنٹے رہا۔"}
+{"id": "demo-d2", "group": "demo-editor-2", "split": "dev", "domain": "editing", "typed": "نماز عصر کے بعد ملاقات ہو گی۔", "corrected": "نماز عصر کے بعد ملاقات ہو گی۔"}
+{"id": "demo-t1", "group": "demo-editor-3", "split": "test", "domain": "editing", "typed": "مقالہ استاد کی نظر کیا گیا۔", "corrected": "مقالہ استاد کی نذر کیا گیا۔"}
+{"id": "demo-t2", "group": "demo-editor-4", "split": "test", "domain": "editing", "typed": "گاڑی مجھے دور سے نظر آئی۔", "corrected": "گاڑی مجھے دور سے نظر آئی۔"}
